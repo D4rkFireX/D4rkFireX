@@ -17,4 +17,4 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br>
 
-Aprendendo novas coisas para melhorar meus conhecimentos e curiosidades pelo o mundo da tecnologia e desenvolvimento.
+### Aprendendo novas coisas para melhorar meus conhecimentos e curiosidades pelo o mundo da tecnologia e desenvolvimento.
