@@ -3,9 +3,7 @@
 
 <div style="display: inline-block;">
 
-<h1>Technologies that I use 🖥️ </h1>
-
-<img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" margin-left="10px">
+<h1>Technologies that I use 🖥️ </h1> <img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px">
 
 </div>
 
