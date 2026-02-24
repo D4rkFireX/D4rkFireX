@@ -1,54 +1,20 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<div style="display: flex"><br>
-<img 
-    align="center" 
-    alt="html5"
-    title="html5" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg"
-/>
+<div style="display: inline_block"><br>
 
-<img 
-    align="center" 
-    alt="css3"
-    title="css3" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg"
-/>
+<img align="center" alt="html5"title="html5" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
 
-<img 
-    align="center" 
-    alt="js"
-    title="js" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg"
-/>
+<img align="center" alt="css3"title="css3" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg">
 
-<img 
-    align="center" 
-    alt="csharp"
-    title="csharp" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg"
-/>
+<img align="center" alt="js"title="js" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg">
 
-<img 
-    align="center" 
-    alt="php"
-    title="php" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg"
-/>
+<img align="center" alt="csharp"title="csharp" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg">
 
-<img 
-    align="center" 
-    alt="python"
-    title="python" 
-    width="30px" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg"
-/>
+<img align="center" alt="php" title="php" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/php/php-original.svg">
+
+<img align="center" alt="python" title="python" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg">
+
 </div><br>
 
 <!-- <div style="display: inline_block"><br>
