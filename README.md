@@ -1,7 +1,7 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<div style="display: inline_block, padding: 50px">
+<div style="display: inline_block; padding: 50px;">
 
 <img align="center" alt="html5" title="html5" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
 
