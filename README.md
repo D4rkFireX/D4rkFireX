@@ -7,7 +7,7 @@
 </h1>
 
 
-<div style="display: inline-block;" text-align="center"><br>
+<div display= "inline-block" align="center" text-align="center"><br>
 
 <img align="center" alt="html5" title="html5" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
 
