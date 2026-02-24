@@ -1,13 +1,13 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<div style="display: inline-block;"><br>
+<div style="display: inline-block;">
 
 <h1>Technologies that I use 🖥️ </h1>
 
-<img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" margin-left="10px"><br>
+<img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" margin-left="10px">
 
-</div><br>
+</div>
 
 
 <div style="display: inline-block;"><br>
