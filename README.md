@@ -1,7 +1,7 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
 <img 
     align="center" 
     alt="html5"
