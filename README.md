@@ -3,7 +3,7 @@
 
 ### Technologies that I use 🖥️ 
 
-<img src="https://pixabay.com/images/download/hsnfirdaus-coding-7224945_1920.png" width="30px"><br>
+![Minha imagem](./hsnfirdaus-coding-7224945_1280.png)<br>
 
 <div style="display: inline-block;"><br>
 
