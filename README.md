@@ -1,7 +1,7 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<h1>
+<h1 align="center" text-align="center">
   Technologies that I use 🖥️ 
   <img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" style="vertical-align: middle;">
 </h1>
