@@ -1,16 +1,15 @@
 ### I'm Victor Gabriel! A guy who wants to fill up the world with more technologies for its utility. 👋
 
 
-<div style="display: inline-block;">
-
-<h1>Technologies that I use 🖥️ </h1> 
-
-<img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" align="center">
-
-</div>
+<h1>
+  Technologies that I use 🖥️ 
+  <img src="./hsnfirdaus-coding-7224945_1280.png" alt="coding" width="30px" style="vertical-align: middle;">
+</h1>
 
 
-<div style="display: inline-block;"><br><img align="center" alt="html5" title="html5" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
+<div style="display: inline-block;"><br>
+
+<img align="center" alt="html5" title="html5" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg">
 
 <img align="center" alt="css3" title="css3" width="30px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg">
 
