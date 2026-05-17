@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<h3>
   <img src="img/me1.png" width="30" style="vertical-align: middle;">
-  Technologies that I use
+  <h3>Technologies that I use</h3>
   <img src="img/code.png" width="30" style="vertical-align: middle;">
-</h3>
 
 </div>
 
