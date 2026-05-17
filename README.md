@@ -1,4 +1,4 @@
-### Hey, I'm Victor Gabriel! Bringing new solutions can make the world a better place
+<h1 align="center"> Hey, I'm Victor Gabriel! Bringing new solutions can make the world a better place</h1>
 
 <h1 align="center" text-align="center">
   <img src="img/me1.png" alt="code1" width="30px" style="vertical-align: middle;">
