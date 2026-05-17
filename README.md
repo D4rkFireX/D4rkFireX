@@ -1,10 +1,10 @@
-<h1 align="center"> Hey, I'm Victor Gabriel! Bringing new solutions can make the world a better place</h1>
+<h2 align="center"> Hey, I'm Victor Gabriel! Bringing new solutions can make the world a better place</h2>
 
-<h1 align="center" text-align="center">
+<h3 align="center" text-align="center">
   <img src="img/me1.png" alt="code1" width="30px" style="vertical-align: middle;">
   Technologies that I use
   <img src="img/code.png" alt="code2" width="30px" style="vertical-align: middle;">
-</h1>
+</h3>
 
 
 <div display= "inline-block" align="center" text-align="center"><br>
