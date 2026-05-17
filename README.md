@@ -1,13 +1,17 @@
 <h2 align="center"> Hey, I'm Victor Gabriel! Bringing new solutions can make the world a better place</h2>
 
-<h3 align="center" text-align="center">
-  <img src="img/me1.png" alt="code1" width="30px" style="vertical-align: middle;">
+<div align="center">
+
+<h3>
+  <img src="img/me1.png" width="30" style="vertical-align: middle;">
   Technologies that I use
-  <img src="img/code.png" alt="code2" width="30px" style="vertical-align: middle;">
+  <img src="img/code.png" width="30" style="vertical-align: middle;">
 </h3>
 
+</div>
 
-<div display= "inline-block" align="center" text-align="center"><br>
+
+<div display= "inline-block" align="center"><br>
 
 <img align="center" alt="html5" title="html5" width="30px" src="img/html.svg">
 
